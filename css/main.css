@@ -20,6 +20,7 @@ body {
     width: 500vw;
     display: flex;
     overflow: hidden;
+    transition: transform 0.5s;
 }
 .slide_list li {
     width: 100vw;
